@@ -12,15 +12,15 @@
 # I am looking for a job with a salary of 2000-3000 dollars per month
 
 name = "Tim Tester"
-age = 20
+age = "20"
 skill1 = "python"
 level1 = "beginner"
 skill2 = "java"
 level2 = "veteran"
 skill3 = "programming"
 level3 = "semiprofessional"
-lower = 2000
-upper = 3000
+lower = "2000"
+upper = "3000"
 
 print("my name is ", name, " , I am ", age, "years old")
 print("my skills are")
@@ -50,4 +50,6 @@ print("I am looking for a job with a salary of", lower, "-", upper, "dollars per
 
 x = input("X val: ")
 y = input("Y val: ")
+
+print(x+y)
 

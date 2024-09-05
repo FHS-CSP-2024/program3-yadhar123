@@ -45,3 +45,15 @@
 #print("\n") # newline
 #print("\t") # tab
 #print("\\") # \
+
+
+beds = 5 
+bath= 1.5
+address= "435 coo coo Cir"
+City = "Folsom"
+Zip = 95630
+rent = 7000
+
+print(f"house for rent at {adress} in {city} ({Zip})")
+print(f'')
+
