@@ -55,5 +55,7 @@ Zip = 95630
 rent = 7000
 
 print(f"house for rent at {adress} in {city} ({Zip})")
-print(f'')
+print(f"\t{beds} bedrooms, {bathrooms, {bath} bathrooms")
+print(f"\trent is ${rent}/month")
 
+What is the purpose of a DNS?
