@@ -47,7 +47,8 @@ print("I am looking for a job with a salary of", lower, "-", upper, "dollars per
 # 27 / 15 = 1.8
 #
 # - The program should work correctly even if the values of the variables are changed.
-x =int(input("x Val:"))
+
+x = int(input("x Val:"))
 y = int (input("y Val:"))
 
 print(x+y)
